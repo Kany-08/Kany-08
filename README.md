@@ -13,6 +13,7 @@ Fast-learning and creative junior web developer, looking for a new challenge in 
     [![Typescript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=302d2d&logo=typescript&logoColor=3178C6)](#)
 
 -   Frameworks & Libraries <br>
+    [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]
     [![Express Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=f7efef&logo=express&logoColor=000000)](#)
     [![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=302d2d&logo=node.js&logoColor=3C873A)](#)
     [![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&labelColor=302d2d&logo=react&logoColor=61DAFB)](#)
