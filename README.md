@@ -1,6 +1,6 @@
 # About me
 
-Fast-learning and creative junior web developer, looking for a new challenge in this field to further improve my tech skills. I want to consolidate my knowledge and gain new valuable hands-on experience while contributing to the success of your company.
+junior web developer. 
 
 <details>
   
